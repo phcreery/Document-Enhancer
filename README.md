@@ -8,7 +8,7 @@ Install dependencies:
 `pip3 install tqdm regex==2017.4.5`
 
 Clone gpt-2:
-`git clone https://github.com/graykode/gpt-2-Pytorch && mv gpt-2-Pytorch gpt2Pytorch && d gpt2Pytorch`
+`git clone https://github.com/graykode/gpt-2-Pytorch && mv gpt-2-Pytorch gpt2Pytorch && cd gpt2Pytorch`
 
 Download the 117M model:
 `curl --output gpt2-pytorch_model.bin https://s3.amazonaws.com/models.huggingface.co/bert/gpt2-pytorch_model.bin`
