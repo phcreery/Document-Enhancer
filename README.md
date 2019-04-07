@@ -23,6 +23,6 @@ A python script to fix, format, and expand your document. It's main feature is U
 
 * Save your document in the working directory as "test.docx"
 
-* Run 'python3 main2.py'
+* Run `python3 main2.py`
 
 * The results will be in "mla.docx"
