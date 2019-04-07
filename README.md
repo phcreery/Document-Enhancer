@@ -1,6 +1,6 @@
 # Document-Enhancer
 
-To get started:
+**To get started:**
 
 install pytorch from here: https://pytorch.org/
 
