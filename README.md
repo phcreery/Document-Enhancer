@@ -2,7 +2,7 @@
 
 **To get started:**
 
-install pytorch from here: https://pytorch.org/
+Install pytorch from here: https://pytorch.org/
 
 Install dependencies:
 `pip3 install tqdm regex==2017.4.5`
