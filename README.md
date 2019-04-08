@@ -21,6 +21,8 @@ A python script to fix, format, and expand your document. It's main feature is U
 
 ## Expanding your document
 
+Prerequisites: `pip install python-docx==0.8.10`
+
 * Save your document in the working directory as "test.docx"
 
 * Run `python3 main2.py`
