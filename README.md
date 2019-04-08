@@ -8,7 +8,7 @@ https://github.com/graykode/gpt-2-Pytorch
 
 https://github.com/openai/gpt-2
 
-## Installing and Testing OpenAI
+## Installing and Testing GPT-2
 **To get started:**
 
 * Install pytorch from here: https://pytorch.org/
