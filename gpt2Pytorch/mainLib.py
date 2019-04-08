@@ -27,7 +27,7 @@ def text_generator(state_dict, paragraph):
     parser.add_argument("--batch_size", type=int, default=-1)
     parser.add_argument("--length", type=int, default=-1)
     parser.add_argument("--temperature", type=float, default=0.7)
-    parser.add_argument("--top_k", type=int, default=60)
+    parser.add_argument("--top_k", type=int, default=40)
     args = parser.parse_args()
 
     args.text = paragraph
