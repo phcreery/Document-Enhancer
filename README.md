@@ -1,6 +1,6 @@
 # Document-Enhancer
 
-A python script to fix, format, and expand your document. It's main feature is utilizing OpenAI to add content to your paragraphs and setting the format as MLA.
+A python script to fix, format, and expand your document. It's main feature is utilizing OpenAI to add content to your paragraphs and setting the format as MLA. This works best on narrative and descriptive essays.
 
 My script Utilizes the open source GPT-2 from OpenAI modified to use Pytorch to use machine learning to create sentances and paragraphs. 
 
@@ -34,3 +34,13 @@ Prerequisites: `pip install python-docx==0.8.10`
 * Run `python3 main2.py`
 
 * The results will be in "mla.docx
+
+## Goals
+This is the list of future changes:
+
+ - [ ] Use [openAI's gpt2](https://github.com/openai/gpt-2) instead of pytorch variant
+ - [ ] Impliment May release of 345M, Medium sized model
+ - [ ] Create methods of expanding, filling, and modifying initial work.
+ - [ ] Citations? Expository & Persuasive essays?
+ - [ ] Support other citaiton formats like APA, Chicago, etc.
+
